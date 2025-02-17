@@ -1,0 +1,7 @@
+dataset,MSE_diff,MAE_diff
+ECL,0.006,0.006
+ETTh1,0.017,0.011
+ETTh2,0.012,0.007
+ETTm1,0.012,0.007
+ETTm2,0.005,0.003
+weather,0.006,0.005
